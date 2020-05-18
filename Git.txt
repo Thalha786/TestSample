@@ -3,3 +3,4 @@ Hello
 Bonjour
 Vanakkam
 namastey
+namaskar
